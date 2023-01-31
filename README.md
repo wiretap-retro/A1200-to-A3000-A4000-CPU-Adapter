@@ -1,5 +1,5 @@
 # A1200 to A3000/A4000 CPU Adapter
-An adapter to use an A1200 CPU in an Amiga 3000 or 4000. Targed for Pistorm32 use.
+An adapter to use an A1200 CPU in an Amiga 3000 or 4000. Targed for Pistorm32 use only.
 
 ![pic](pic.png)
 
