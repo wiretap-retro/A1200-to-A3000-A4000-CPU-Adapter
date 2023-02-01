@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A3000_A4000_LOCAL_BUS_SLOT
+D Amiga 3000/4000 CPU Board Connector
+K Amiga
+$ENDCMP
+#
+#End Doc Library
